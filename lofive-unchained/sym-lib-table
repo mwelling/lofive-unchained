@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "lofive-unchained")(type "KiCad")(uri "${KIPRJMOD}/lofive-unchained.kicad_sym")(options "")(descr ""))
+)
