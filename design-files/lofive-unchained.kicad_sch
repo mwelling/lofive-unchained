@@ -3185,7 +3185,7 @@
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 251.46 59.6264 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G" (id 2) (at 236.22 55.88 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (id 2) (at 236.22 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 236.22 55.88 0)
@@ -3424,7 +3424,7 @@
       (reference "J2") (unit 1) (value "Conn_01x09") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical")
     )
     (path "/bef403e8-2c26-4719-93d2-347defeb2969"
-      (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G")
+      (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/fc19b7c5-e4c2-4287-9459-78ed575099e0"
       (reference "L1") (unit 1) (value "2.0nH") (footprint "Inductor_SMD:L_0402_1005Metric")
